@@ -8,7 +8,7 @@
 and more practise && problem solving
 
 **Back end
- #Javscript
+ # Javscript
 
 ** Learn Basics of Javascript
 ** Arrow Functions
@@ -16,13 +16,13 @@ and more practise && problem solving
 ** Arrays
 ** Template Literals
 
- #ES5/ES6/ES7
+ # ES5/ES6/ES7
    ** Promises
    ** Closures
    ** The Event Loop
    ** Async programming and callbacks
 
-#Practice
+# Practice
 * Fibonacci
 * Fizzbuzz
 * Palindrome
@@ -30,7 +30,7 @@ and more practise && problem solving
 * Has duplicate element in array
 * Sort the given number
 
-#Git
+# Git
 
 * Learn Git commands (push , clone , commit ....)
 * Repo
@@ -46,7 +46,7 @@ and more practise && problem solving
 * Merge request
 * Revert, reset
 
-#NPM
+# NPM
 
 Learn Basics of NPM.
 Register from npmjs.com to push your own package
@@ -57,7 +57,7 @@ Module System
 Buffers
 Event Emitter
 
-#Development Skills-1
+# Development Skills-1
 
 Learn HTTP/HTTPS protocols
 Learn HTTP request methods
@@ -72,7 +72,7 @@ Express( recomended )
 Fastify
 Sails.js
 
-#Storage
+# Storage
 
 No SQL Databases
 Mongo DB ( recomended )
@@ -81,35 +81,35 @@ Relational Databases
 PostgreSQL ( recomended )
 MySQL
 Oracle
- #Tasks for Practesing after learning Node js Storage, HTTP Protocols
+ # Tasks for Practesing after learning Node js Storage, HTTP Protocols
 
 Todo List
 Contact List
 User system( CRUD )
 
-#Testing
+# Testing
 
 Jest (recomended)
 Mocha
 
-#Caching
+# Caching
 
 Memcached
 Redis
 
-#Development Skills-2
+# Development Skills-2
 
 Learn About Web Servers
 Nginx
 Apache
 Read about MVC
 
-#Authentication
+# Authentication
 JSON web token(JWT)
 OAuth 2.0
 Typescript with Node js
 
-#Docker
+# Docker
 
 Install
 Pull image
